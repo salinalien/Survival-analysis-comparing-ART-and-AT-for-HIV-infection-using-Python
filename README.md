@@ -6,6 +6,7 @@ This project conducts survival analysis to compare the effectiveness of Antiretr
 - Dataset: Antiretroviral therapy vs Ayurvedic therapy for HIV Infection.csv
 - File containing analysis: Antiretroviral therapy vs Ayurvedic therapy for HIV Infection.ipynb
 
+
 The dataset used for this analysis contains the following variables:
 - Time of Event: Time in days representing the duration until an event (e.g., death) occurs.
 - Total no. of patients died in both groups: Total number of patients that have died in both ART and AT groups.
